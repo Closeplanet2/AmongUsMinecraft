@@ -1,0 +1,6 @@
+name: AmongUsMinecraft
+version: 1.1.1-a
+main: com.pandapulsestudios.amongusminecraft.AmongUsMinecraft
+api-version: 1.20
+author: Closeplanet2
+depend: [PulseCore, PulseMatchmaking, PulseCommands]
